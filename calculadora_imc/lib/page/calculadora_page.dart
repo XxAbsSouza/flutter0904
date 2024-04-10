@@ -1,6 +1,5 @@
 import 'package:calculadora_imc/components/custom_card.dart';
 import 'package:calculadora_imc/components/gender_card.dart';
-import 'package:calculadora_imc/constants.dart';
 import 'package:flutter/material.dart';
 
 class CalculadoraPage extends StatefulWidget {
