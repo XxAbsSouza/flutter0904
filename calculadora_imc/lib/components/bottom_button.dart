@@ -7,7 +7,7 @@ class BottomButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
+    return GestureDetector( //todo widget que quer torna-lo clicável é só adicionar esse gesturedetector
       onTap: onPressed,
       child: Container(
         margin: const EdgeInsets.only(top: 10.0),
