@@ -17,6 +17,9 @@ class GenderCard extends StatelessWidget {
                         icon,
                         size: 90,
                       ),
+                      SizedBox(
+                        height: 15.0,
+                      ),
                       Text(
                         gender,
                         style: labelTextStyle,
